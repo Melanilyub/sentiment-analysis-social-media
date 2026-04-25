@@ -38,9 +38,10 @@ It classifies text into **positive**, **negative**, and **neutral** sentiments.
 - Word cloud
 
 ## Project Structure
-Desktop/
-└── sentiment-analysis-project/
+```
+sentiment-analysis-project/
 ├── data/
-│ ├── raw/
-│ └── processed/
+│   ├── raw/
+│   └── processed/
 └── social_media.ipynb
+```
