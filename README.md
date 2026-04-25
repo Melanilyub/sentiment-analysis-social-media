@@ -40,7 +40,7 @@ It classifies text into **positive**, **negative**, and **neutral** sentiments.
 ## Project Structure
 Desktop/
 └── sentiment-analysis-project/
-    ├── data/
-    │   ├── raw/
-    │   └── processed/
-    └── social_media.ipynb
+├── data/
+│ ├── raw/
+│ └── processed/
+└── social_media.ipynb
